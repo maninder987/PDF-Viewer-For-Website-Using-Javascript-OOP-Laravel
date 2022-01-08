@@ -3,8 +3,9 @@
 
 This pdf Viewer can be added in any project. 
 
-Main JS Code : PDF-Viewer-For-Website-Using-Javascript-OOP-Laravel/public/assets/js/main.js 
-Blade File: resources/views/welcome.blade.php
+* Main JS Code : PDF-Viewer-For-Website-Using-Javascript-OOP-Laravel/public/assets/js/main.js 
+
+* Blade File: resources/views/welcome.blade.php
 
 ## Features
 
