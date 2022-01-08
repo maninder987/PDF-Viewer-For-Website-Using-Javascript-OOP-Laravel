@@ -12,4 +12,4 @@ This pdf Viewer can be added in any project.
 * Can be customized.
 
 ##Demo
-<a href="https://imgur.com/D5AdRdD"><img src="https://i.imgur.com/D5AdRdD.gifv" title="source: imgur.com" /></a>
+<a href="https://imgur.com/AaLQfuW"><img src="https://i.imgur.com/AaLQfuW.gif" title="source: imgur.com" /></a>
